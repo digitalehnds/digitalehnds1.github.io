@@ -1,0 +1,17 @@
+h1 {
+  color: MediumSeaGreen;
+text-size: 600%
+}
+  
+h2,h3 {
+color: MediumSeaGreen;
+}
+p {
+color:#21302F;
+}
+h1,h2,h3 {
+  font-family: 'Rubik Beastly', cursive;
+}
+p,ul,ol {
+font-family: 'Raleway', sans-serif;
+}
